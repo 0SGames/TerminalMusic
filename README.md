@@ -26,8 +26,9 @@
 </div>
 
 <div align="center">
-    <h6>The rust logo used in the release badge are copyrighted under,<br>
-        <a href="https://github.com/0SGames/TerminalMusic/wiki">Creative Commons Attribution license (CC-BY)</a>.<br>
+    <h6>The Rust logo used in the release badge are copyrighted under,<br>
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution license (CC-BY)</a>.<br>
     All copywriting and trademarks go to the <a href="https://foundation.rust-lang.org">Rust Foundation</a>.<br>
+    Please contact me if you have any legal issues related to this repository.<br>
     © ObvBeans</h6>
 </div>
