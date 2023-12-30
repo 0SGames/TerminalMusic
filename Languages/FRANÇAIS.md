@@ -27,7 +27,7 @@
 
 <div align="center">
     <h6>Le logo Rust utilisé dans le badge de version est protégé par le droit d'auteur,<br>
-        <a href="https://github.com/0SGames/TerminalMusic/wiki">Licence Creative Commons Attribution (CC-BY)</a>.<br>
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">Licence Creative Commons Attribution (CC-BY)</a>.<br>
     Tous les droits de rédaction et les marques déposées vont au <a href="https://foundation.rust-lang.org">Rust Fondation</a>.<br>
     Vos lois peuvent fonctionner différemment de celles de mon pays d'origine (Grande-Bretagne).<br> Veuillez me contacter si vous rencontrez des problèmes juridiques liés à ce référentiel.<br>
     © ObvBeans</h6>
