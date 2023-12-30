@@ -1,0 +1,35 @@
+<div align="center">
+    <h1>🤖ターミナル音楽🎵</h1>
+</div>
+<div align="center">
+    <h3>ターミナル音楽 端末内のBGMを簡単に再生できます。<br>
+    たった 1 行で簡単に音楽を体験できます。</h3>
+</div>
+
+<p align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%C2%A9_BSD_3--Clause-ライセンス-green?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=0SGames.TerminalMusic"/>
+  <img alt="Rust release" src="https://img.shields.io/github/v/release/rust-lang/rust?logo=rust&color=red">
+</p>
+
+<div align="center">
+    <h4>多言語にも対応！<br>
+    リストを見る <a href="https://github.com/0SGames/TerminalMusic/wiki">ここ</a>.</h4>
+</div>
+
+<div align="center">
+    <h3>使い方を知りたいですか?<br>
+    試す<a href="https://github.com/0SGames/TerminalMusic/wiki">ウィキ</a>.</h3>
+</div>
+
+<div align="center">
+    <h6>リリース バッジに使用されている Rust ロゴは、ライセンスに基づいて著作権で保護されています,<br>
+        <a href="https://github.com/0SGames/TerminalMusic/wiki">クリエイティブ・コモンズ表示ライセンス (CC-BY)</a>.<br>
+    すべての編集権および商標は以下に属します。<a href="https://foundation.rust-lang.org">Rust 財団</a>.<br>
+    私の母国 (英国) では法律が異なる場合があります。<br>
+    このリポジトリに関連して法的問題がある場合は、私に連絡してください。<br>
+    © ObvBeans</h6>
+</div>

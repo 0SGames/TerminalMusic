@@ -1,0 +1,35 @@
+<div align="center">
+    <h1>🤖Термінальна музика🎵</h1>
+</div>
+<div align="center">
+    <h3>Термінальна музика полегшує відтворення фонової музики в терміналі.<br>
+    Слухайте музику лише з одним підказкою.</h3>
+</div>
+
+<p align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%C2%A9_BSD_3--Clause-Ліцензія-green?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=0SGames.TerminalMusic"/>
+  <img alt="Rust release" src="https://img.shields.io/github/v/release/rust-lang/rust?logo=rust&color=red">
+</p>
+
+<div align="center">
+    <h4>Також підтримуються різні мови!<br>
+    Перегляньте список <a href="https://github.com/0SGames/TerminalMusic/wiki">тут</a>.</h4>
+</div>
+
+<div align="center">
+    <h3>Хочете знати, як ним користуватися?<br>
+    Спробуйте <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki</a>.</h3>
+</div>
+
+<div align="center">
+    <h6>Логотип Rust, який використовується на значку випуску, захищено авторським правом згідно з<br>
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.uk">Ліцензія Creative Commons Attribution (CC-BY)</a>.<br>
+    Усі копірайтингові та товарні знаки переходять до<a href="https://foundation.rust-lang.org">Rust фундамент</a>.<br>
+    Будь ласка, зв’яжіться зі мною, якщо у вас виникнуть будь-які юридичні проблеми,<br>
+     пов’язані з цим сховищем.<br>
+    © ObvBeans</h6>
+</div>
