@@ -28,7 +28,7 @@
 <div align="center">
     <h6>Das im Veröffentlichungsabzeichen verwendete Rust-Logo unterliegt dem Urheberrecht:<br>
         <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution-Lizenz (CC-BY)</a>.<br>
-    Alle Urheberrechte und Warenzeichen liegen bei der<a href="https://foundation.rust-lang.org">Rust Stiftung</a>.<br>
+    Alle Urheberrechte und Warenzeichen liegen bei der <a href="https://foundation.rust-lang.org">Rust Stiftung</a>.<br>
     Bitte kontaktieren Sie mich, wenn Sie rechtliche Probleme im Zusammenhang<br>
     mit diesem Repository haben.<br>
     © ObvBeans</h6>
