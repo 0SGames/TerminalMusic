@@ -17,7 +17,7 @@
 
 <div align="center">
     <h4>Es werden auch verschiedene Sprachen unterstützt!<br>
-    Siehe die Liste <a href="https://github.com/0SGames/TerminalMusic/wiki">hier</a>.</h4>
+    Siehe die Liste <a href="https://github.com/0SGames/TerminalMusic/tree/main/Languages">hier</a>.</h4>
 </div>
 
 <div align="center">
