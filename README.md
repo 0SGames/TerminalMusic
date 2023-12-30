@@ -17,7 +17,7 @@
 
 <div align="center">
     <h4>Want to know how to use it?<br>
-    Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki!</a></h4>
+    Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki</a>.</h4>
 </div>
 
 <div align="center">
