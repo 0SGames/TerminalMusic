@@ -19,3 +19,9 @@
     <h4>Want to know how to use it?<br>
     Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki!</a></h4>
 </div>
+
+<div align="center">
+    <h6>The rust logo used in the release badge are copyrighted under,<br>
+        <a href="https://github.com/0SGames/TerminalMusic/wiki">Creative Commons Attribution license (CC-BY)</a>.<br>
+    All copywriting and trademarks go to the <a href="https://foundation.rust-lang.org">Rust Foundation</a>.</h6>
+</div>
