@@ -16,8 +16,13 @@
 </p>
 
 <div align="center">
-    <h4>Want to know how to use it?<br>
-    Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki</a>.</h4>
+    <h4>Different languages are supported as well!<br>
+    See the list <a href="https://github.com/0SGames/TerminalMusic/wiki">here</a>.</h4>
+</div>
+
+<div align="center">
+    <h3>Want to know how to use it?<br>
+    Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki</a>.</h3>
 </div>
 
 <div align="center">
